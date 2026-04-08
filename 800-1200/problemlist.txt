@@ -47,15 +47,17 @@ DONE 381A - Sereja and Dima (Two Pointers)
 
 DONE 1462A - Favorite Sequence (Two Pointers)
 
-1560C - Infinity Table (Two Pointers/Math)
+DONE 1560C - Infinity Table (Two Pointers/Math)
 
-677A - Vanya and Fence (Simulation/Pointers)
+DONE 677A - Vanya and Fence (implementation)
 
-1619B - Squares and Cubes (Two Pointers/Math)
+DONE 1619B - Squares and Cubes (Math) - this does not seem like two pointers, neither does the one above
 
 // Sliding Window / Range Pattern
 
-1343B - Balanced Array (Sliding Window/Math)
+DONE 1343B - Balanced Array (Math) - this one is not sliding window, just math
+ - made a mistake and made a lot of other smaller mistekes because of that that I had to fix sequentially
+ - odd numbers are (n * 2) + 1, even numbers are n * 2, so the sum of the first n odd numbers is n^2 and the sum of the first n even numbers is n * (n + 1)
 
 1367B - Even Array (Sliding Window/Parity)
 

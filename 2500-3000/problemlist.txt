@@ -1,0 +1,155 @@
+Curated Problem List (2500–3000)
+
+Advanced DP & Optimization
+
+311B - Cats Transport (2400)
+837D - Round Subset (2100) — practice difficult transitions
+467D - Fedor and Essay (2100)
+607B - Zuma (2100)
+1042F - Leaf Sets (2100)
+1153E - Serval and Snake (2200)
+864E - Fire (2000/2200)
+922F - Tree and Path DP (2500)
+1088F - Interval DP with constraints (2600)
+626E - Yet Another DP Problem (2500)
+1006F - DP with Convex Hull Trick (2600)
+1110F - Multi-dimensional DP + Graph transitions (2700)
+
+Heavy Data Structures
+
+226E - Noble Knight's Path (2500)
+484E - Sign on Fence (2200)
+911G - Mass Change Queries (2400)
+671C - Ultimate Weirdness (2500)
+840D - Destiny (2400)
+1004E - Sonya and Ice Cream (2300)
+1520E - Persistent Segment Tree + Query Merge (2600)
+1507E - Advanced HLD + Path Queries (2700)
+1687F - Treap / Splay Tree Range Updates (2800)
+1611E - DSU with Rollback / Offline Queries (2700)
+
+Graph Theory & Network Flow
+
+1082G - Petya and Graph (2400)
+1433G - Shortest Path Queries (2100)
+546E - Soldier and Hodor (2100)
+1198D - Rectangle Painting 1 (2100)
+1416D - Graph and Queries (2400)
+1106E - Lunar New Year Domino / Weighted Matching (2300)
+1234E - Weighted Bipartite Matching (2200)
+380C - Sereja and Graph Matching (2200)
+1625F - Max Flow + Constraints / Min-Cut variations (2600)
+1752D - Flow with Edge Costs / Advanced Capacity (2700)
+1630E - Tree + Graph hybrid DP (2800)
+
+Geometry
+
+1036E - Convex Hull Trick Advanced (2200)
+1188D - Tangent Circles Problem (2300)
+988F - Half-plane Intersection (2400)
+1279E - Polygon Optimization / Minkowski Sum (2600)
+1329F - Dynamic Convex Hull / Line Queries (2700)
+1503D - Advanced Sweep Line (2800)
+1650F - Circle Tangency + Geometry DP (2900)
+
+String Algorithms
+
+128B - String (2100)
+235C - Cyclical Quest (2400)
+1037E - Trips (2100)
+700C - Break Up (2400)
+1266F - Advanced String + Graph DP (2600)
+1470F - Suffix Automaton Counting Paths (2700)
+1613E - Hashing + Polynomial Convolutions (2800)
+1766D - Combinatorial String Counting / Constraints (2900)
+
+Combinatorics & Number Theory
+
+631E - Product Sum (2400)
+900D - Unusual Sequences (2100)
+1139D - Steps to One (2200)
+995C - Rick and Morty (2300)
+1093E - Intersection of Permutations (2400)
+622F - Sum of Differences (2200)
+282E - XOR Polynomials / Convolutions (2300)
+768E - Polynomial Multiplication DP (2400)
+1027E - Advanced Mobius Inversion / Inclusion-Exclusion (2600)
+1311F - Modular Combinatorics + FFT (2700)
+1574F - Expected Value DP + Randomized Math (2800)
+
+Game Theory
+
+1187E - Subset Game (2200)
+1030E - Nim Variant on Graphs (2300)
+1036D - Game on Tree (2400)
+1406D - Impartial Games + Sprague-Grundy (2600)
+1567E - Probabilistic Game / DP (2700)
+1703F - Graph Games + DP State Reduction (2800)
+1792E - Multi-level Game Theory / Graph States (2900)
+
+Advanced Graphs / DAG / 2-SAT / SCC
+
+427C - Checkposts (2200)
+1133E - DAG Optimization (2300)
+510E - 2-SAT + SCC reduction (2400)
+1602F - SCC + DP optimization (2600)
+1751F - DAG + Min/Max Path Reductions (2700)
+1829E - 2-SAT + Advanced Graph Reductions (2800)
+
+
+
+----
+
+
+core areas:
+
+1. Advanced Dynamic Programming & Optimization
+
+Multi-dimensional DP (3D/4D DP, state compression)
+Interval DP / Convex Hull Trick / Li-Chao Tree
+DP on DAGs / Graph + DP hybrids
+Expectation DP / Probability DP
+
+2. Heavy Data Structures
+
+Persistent Segment Trees
+Segment Tree Merging
+Advanced HLD (Dynamic, with path queries)
+Treaps, Splay Trees, Link-Cut Trees
+DSU with rollback / fully dynamic DSU
+
+3. Graph Theory & Network Flow
+
+Max Flow (Dinic, Push-Relabel)
+Min-Cut / Gomory-Hu Trees
+Weighted Matching (Hungarian, Blossom)
+Advanced Dijkstra / Shortest Path Variations
+2-SAT, SCC-based optimizations
+Tree + Graph hybrid problems
+
+4. Geometry
+
+Convex Hull / Dynamic Convex Hull / Hull Trick
+Half-plane intersections / Line sweep
+Tangents / Circle arrangements / Polygon optimization
+Minkowski sum / Rotating calipers / Distance transforms
+
+5. String Algorithms
+
+Suffix Automaton / Suffix Array / LCP / String Matching
+Advanced hashing + Polynomial rolling hash
+String + Graph DP / Paths
+Palindromes / Combinatorial String Counting
+
+6. Combinatorics & Number Theory
+
+FFT / Polynomial convolutions / NTT
+Inclusion-Exclusion / Mobius inversion / Chinese Remainder Theorem
+Randomized / Expected Value combinatorial problems
+Modular combinatorics / nCr modulo prime
+
+7. Game Theory
+
+Sprague-Grundy / Nim Variants / Graph Games
+Impartial games + combinatorial game reduction
+Probabilistic games + DP
