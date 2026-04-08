@@ -59,7 +59,8 @@ DONE 1343B - Balanced Array (Math) - this one is not sliding window, just math
  - made a mistake and made a lot of other smaller mistekes because of that that I had to fix sequentially
  - odd numbers are (n * 2) + 1, even numbers are n * 2, so the sum of the first n odd numbers is n^2 and the sum of the first n even numbers is n * (n + 1)
 
-1367B - Even Array (Sliding Window/Parity)
+DONE 1367B - Even Array (Sliding Window/Parity)
+- forgot about garbage values
 
 1676C - Most Similar Words (Sliding Window/Brute Force)
 
@@ -70,7 +71,7 @@ DONE 1343B - Balanced Array (Math) - this one is not sliding window, just math
 
 // Dynamic Programming (DP) & Advanced Logic
 
-706B - Interesting Drink (Binary Search/DP Intro) [1100]
+WORKING - 706B - Interesting Drink (Binary Search/DP Intro) [1100]
 
 455A - Boredom (Classic DP/State transition) [1200]
 

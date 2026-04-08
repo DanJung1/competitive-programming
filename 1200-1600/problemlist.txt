@@ -5,7 +5,7 @@ Greedy (Optimal Choice / Interval / Proof-Based)
     466A - Cheap Travel
     1359B - New Theatre Square
     479C - Exams
-    131A - cAPS lOCK
+    131A - CAPS lOCK
     1353C - Board Moves
     1151A - Maxim and Biology
     1154C – Gourmet Cat (Greedy + prefix sum variations)
