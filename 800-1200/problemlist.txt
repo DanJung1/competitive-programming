@@ -1,0 +1,87 @@
+DONE 158A - Next Round (Implementation)
+
+DONE 282A - Bit++ (Strings/Simulation)
+
+DONE 263A - Beautiful Matrix (2D Arrays/Math)
+
+DONE 112A - Petya and Strings (String Manipulation)
+
+DONE 339A - Helpful Maths (Sorting/Parsing)
+
+DONE 281A - Word Capitalization (ASCII/Strings)
+
+DONE 236A - Boy or Girl (Sets/Counting)
+
+DONE 546A - Soldier and Bananas (Loops/Arithmetic)
+
+DONE 791A - Bear and Big Brother (While Loops)
+
+DONE 110A - Nearly Lucky Number (Logic/Counting)
+
+DONE 160A - Twins (Greedy/Sorting)
+
+DONE 580A - Kefa and First Steps: Linear DP / Subsegment tracking - can just be soled using pointers
+
+DONE 122A - Lucky Division: Brute force/Pre-computation.
+
+DONE 118A - String Task: String transformation.
+
+// Greedy Pattern
+
+DONE 405A - Gravity Flip (Greedy/Sorting)
+
+DONE 1325B - EhAb AnD gCd (Greedy/Observation)
+
+DONE 978B - File Name (Greedy/Strings)
+
+DONE 1335B - Construct the String (Greedy/Strings)
+
+DONE 1154A - Restoring Three Numbers (Greedy/Math)
+
+DONE 1213A - Chips Moving (Greedy/Parity)
+
+// Two Pointers Pattern
+
+DONE 381A - Sereja and Dima (Two Pointers)
+- be careful about how you manage the two pointers - just use two int pointers if possible very simple and no seg fault
+
+DONE 1462A - Favorite Sequence (Two Pointers)
+
+1560C - Infinity Table (Two Pointers/Math)
+
+677A - Vanya and Fence (Simulation/Pointers)
+
+1619B - Squares and Cubes (Two Pointers/Math)
+
+// Sliding Window / Range Pattern
+
+1343B - Balanced Array (Sliding Window/Math)
+
+1367B - Even Array (Sliding Window/Parity)
+
+1676C - Most Similar Words (Sliding Window/Brute Force)
+
+1006C - Three Parts of the Array (Two Pointers/Range Sum) [1200]
+
+600B - Queries about less or equal elements (Binary Search/Window) [1200]
+
+
+// Dynamic Programming (DP) & Advanced Logic
+
+706B - Interesting Drink (Binary Search/DP Intro) [1100]
+
+455A - Boredom (Classic DP/State transition) [1200]
+
+1182A - Filling Shapes (Basic DP/Tiling) [1000]
+
+327A - Flipping Game (DP/Greedy Mix) [1200]
+
+977A – Wrong Subtraction (Math / Logic)
+
+472A – Design Tutorial: Learn from Math (Math / Divisors)
+
+231A – Team (Counting / Conditions)
+
+50A – Domino piling (2D / Grid logic)
+
+469A – I Wanna Be the Guy (Simple Boolean/2D coverage)

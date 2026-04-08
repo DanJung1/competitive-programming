@@ -1,0 +1,84 @@
+Flows: Max Flow (Dinic's), Min-Cut, Bipartite Matching.
+
+String Algorithms: KMP, Z-Algorithm, Suffix Automaton/Array.
+
+Tree Decomposition: Centroid Decomposition, Heavy-Light Decomposition (HLD).
+
+Advanced Math: FFT (Fast Fourier Transform), Game Theory (Nim, Sprague-Grundy).
+
+Geometry: Convex Hull, Sweep Line.
+
+1. Advanced Dynamic Programming (Optimization & Techniques)
+    311B - Cats Transport (2400): Convex Hull Trick (CHT) DP.
+    837D - Round Subset (2100): Multi-dimensional Knapsack + Math constraints.
+    467D - Fedor and Essay (2100): DP on Strongly Connected Components (SCC).
+    607B - Zuma (2100): Interval DP (Classic but difficult transitions).
+    1042F - Leaf Sets (2100): Greedy + Tree DP.
+    1153E - Serval and Snake (2200): Interactive DP/Search logic.
+    864E - Fire (2000/2200): DP with item recovery and sorting by deadlines.
+
+2. Heavy Data Structures (Persistence & Custom Trees)
+    226E - Noble Knight's Path (2500): Persistent Segment Tree + Heavy-Light Decomposition (HLD).
+    484E - Sign on Fence (2200): Persistent Segment Tree + Binary Search.
+    911G - Mass Change Queries (2400): Segment Tree Merging or Disjoint Set Union (DSU) on values.
+    671C - Ultimate Weirdness (2500): Segment Tree with complex "beats" or range updates.
+    840D - Destiny (2400): Persistent Segment Tree for range frequent elements.
+    1004E - Sonya and Ice Cream (2300): Tree Diameter + Data structure optimization.
+
+3. Advanced Graph Theory (Flow, Matching, & Cut)
+    1082G - Petya and Graph (2400): Reduction to Maximum Weight Closure (Max-Flow/Min-Cut).
+    1433G - Shortest Path Queries (2100): Dijkstra optimization over edge sets.
+    546E - Soldier and Hodor (2100): Max-Flow for distribution problems.
+    1198D - Rectangle Painting 1 (2100): 2D Interval DP / Min-Cut intuition.
+    1416D - Graph and Queries (2400): Kruskal's Reconstruction Tree + DSU.
+
+4. Combinatorics & Number Theory (The "Math" Wall)
+    631E - Product Sum (2400): Optimization using Li-Chao Tree or CHT.
+    900D - Unusual Sequences (2100): Inclusion-Exclusion + Mobius Inversion.
+    1139D - Steps to One (2200): Expectation DP + Number Theory (Mobius).
+    995C - Rick and Morty (2300): Randomized Algorithms / Vectors.
+    1093E - Intersection of Permutations (2400): 2D Range Queries (Fenwick + CDQ Decomposition).
+
+5. String Mastery (Suffix Structures)
+    128B - String (2100): Suffix Automaton or Suffix Array basics.
+    235C - Cyclical Quest (2400): Suffix Automaton + Occurrence counting.
+    1037E - Trips (2100): Graph pruning + Online connectivity.
+    700C - Break Up (2400): Finding bridges/Articulation points in complex constraints.
+
+6. Centroid & Heavy-Light Decomposition (Tree Mastery)
+    342E - Xenia and Tree (2000/2200): Centroid Decomposition for nearest-node queries.
+    117E - Tree or not Tree (2500): HLD + Cycle handling in functional graphs.
+    1192B - Dynamic Diameter (2500): Diameter maintenance in a dynamic tree (Segment Tree over Euler Tour).
+
+
+Added Problems for Missing Topics / Edge Cases
+
+Advanced Graph Matching / Bipartite Matching / Max Flow
+1106E - Lunar New Year and Domino (2300)
+1234E - Weighted Bipartite Matching (2200)
+380C - Sereja and Graph Matching (2200)
+
+Probability / Expectation DP / Randomized
+439E - Devu and his Brother (2100)
+1020E - Expected Value on Graph (2200)
+466E - Probability and Expected Paths (2300)
+
+FFT / Polynomial / Convolutions
+622F - The Sum of Differences (2200)
+282E - XOR and Polynomials (2300)
+768E - Polynomial Multiplication DP (2400)
+
+Hard Geometry / Convex Hull / Sweep Line
+1036E - Convex Hull Trick Advanced (2200)
+1188D - Tangent Circles Problem (2300)
+988F - Half-plane Intersection (2400)
+
+Game Theory / Sprague-Grundy Advanced
+1187E - Subset Game (2200)
+1030E - Nim Variant on Graphs (2300)
+1036D - Game on Tree (2400)
+
+Advanced Graphs / DAG / 2-SAT / SCC
+427C - Checkposts (2200)
+1133E - DAG Optimization (2300)
+510E - 2-SAT + SCC reduction (2400)

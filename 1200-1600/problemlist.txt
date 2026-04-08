@@ -1,0 +1,79 @@
+DONE 102061H - Kadane's Algorithm
+
+Greedy (Optimal Choice / Interval / Proof-Based)
+    158B - Taxi
+    466A - Cheap Travel
+    1359B - New Theatre Square
+    479C - Exams
+    131A - cAPS lOCK
+    1353C - Board Moves
+    1151A - Maxim and Biology
+    1154C – Gourmet Cat (Greedy + prefix sum variations)
+    1080B – Margarite (Greedy with negative numbers / edge case handling)
+    1095C - Powers Of Two
+    1141C - Polycarp Restores Permutation
+    371C - hamburgers
+Two Pointers & Sorting (Linear Scan / Matching)
+    489B - Bersu Ball
+    580B - Kefa and Company
+    161A - Dress'em in Vests
+    602B - Approximating a Constant Range
+    1360C - Similar Pairs
+    489C – Given Lengths (already added, keep)
+    1100B – Build a Contest (Edge cases with counts, sorting + pairing)
+    1152C – Neko does Maths (Two pointers + modular arithmetic)
+    489C - Given Lengths
+    1203C - Common Divisors
+Dynamic Programming (1D / small 2D / Tree DP)
+    455A - Boredom
+    189A - Cut Ribbon
+    327A - Flipping Game
+    1324E - Sleeping Schedule
+    706C - Hard Process
+    431C - k-Tree
+    546C - Soldier and Number Game
+    279C - Ladder
+    439C - Devu and his Brother
+    279D – Books (DP on sequence with prefix sums)
+    486C – Palindrome Transformation (DP on strings, minimal edits)
+    1110B – Tape (1D DP, maximum sum / edge case with negatives)
+Number Theory & Math / Binary Search
+    230B - T-primes
+    1352C - K-th Not Divisible by n
+    474B - Worms
+    276C - Little Girl and Maximum Sum
+    451B - Sort the Array
+    527B - Error Correct System
+    460B – Little Dima and Equation (GCD / divisibility edge cases)
+    622A – Infinite Sequence (Binary search on answer + modulo edge cases)
+Graphs & Trees (BFS / DFS / Functional / Topo)
+    520B - Two Buttons
+    580C - Kefa and Park
+    115A - Party
+    1020B - Badge
+    510C - Fox And Names
+    534B - Covered Points Count
+    510B – Fox And Two Dots (DFS on grid, cycle detection)
+    427B – Prison Transfer (Graph intervals / BFS on array)
+Recursion / Complete Search / Backtracking / Combinatorial
+    279B - Books
+    469B - Chat Online
+    1091B - New Year and Old Property
+    1011B - Planning
+    337A – Puzzles (Subset selection with constraints)
+    118C – Exams (Recursive selection + pruning variations)
+2D / Grid / Geometry
+    1037B - Reach Median
+    1076B - Divisor Subtraction
+    1006B - Polyline
+    1033C - Permutation Game
+
+    1108C – Nice Garland (Grid + modular arithmetic / pattern placement)
+    1092B – Teams Forming (2D / grid-based pairing + sequence constraints)
+Prefix Sums / Difference Arrays / Sliding Windows
+    459B - Pashmak and Flowers
+    447B - DZY Loves Sequences
+    1358C - Celex Update
+
+    279A – Exams (Prefix sum with min/max queries, sequence constraints)
+    1066C – Books Queries (Sliding window + prefix sum combination)

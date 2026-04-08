@@ -1,0 +1,117 @@
+Graphs: DFS, BFS, Dijkstra (Shortest Path), MST (Kruskal's/Prim's).
+
+Trees: Diameter of a tree, LCA (Lowest Common Ancestor).
+
+STL Mastery: std::priority_queue, std::multiset, std::map.
+
+Number Theory: Sieve of Eratosthenes, Euclidean Algorithm (GCD), Fast Exponentiation.
+
+Segment Trees / Fenwick Trees: Range queries and point updates in O(log N)
+Disjoint Set Union (DSU): Path compression and union by rank.
+Advanced DP: Bitmask DP, DP on Trees, Knapsack variations.
+Combinatorics: Inclusion-Exclusion principle.
+-------------------------------------------------------------------------------------------
+
+Advanced Dynamic Programming (State Mastery)
+    2194E
+    118D - Caesar's Legions (1700)
+    1324E - Sleeping Schedule (1500)
+    459E - Pashmak and Graph (1900)
+    1207C - Pipelines (1600)
+    1101D - GCD Counting (2100)
+    1061C - Multiplicity (1700)
+    279D - Books (DP on sequence with prefix sums)
+    486C - Palindrome Transformation (DP on strings, minimal edits)
+    1110B - Tape (1D DP, maximum sum / negative numbers)
+
+---
+
+Tree Algorithms & Re-rooting (CS 170 Mastery)
+    1324F - Maximum White Subtree (1800)
+    1336A - Linova and Kingdom (1600)
+    115A - Party (1600)
+    1454E - Number of Simple Paths (1900)
+    219D - Choosing Capital for Treeland (1800)
+    439C - Devu and his Brother (Tree DP basics)
+    431C - k-Tree (1500)
+
+---
+
+Data Structures (Segment Trees & Fenwick Trees / BIT)
+    339D - Xenia and Bit Operations (1700)
+    1208B - Restore Permutation (1800)
+    459D - Pashmak and Parmida's dilemma (1800)
+    620E - New Year Tree (2000)
+    145E - Lucky Queries (2000)
+    1064C - Least Recently Used (Segment Tree variant)
+    446C - DZY Loves Hash (Fenwick / frequency counting)
+
+---
+
+Advanced Graph Theory
+    1144F - Graph Without Long Directed Paths (1700)
+    20C - Dijkstra? (1900)
+    1364C - Ehab and Prefix MEXs (1600)
+    982C - Cut 'em all! (1600)
+    1433G - Shortest Path Queries (2100)
+    510B - Fox And Two Dots (DFS cycle detection)
+    427B - Prison Transfer (BFS / range graph)
+    510C - Fox And Names (Topological sort basics)
+
+---
+
+Constructive & Mathematical Observation
+    1389B - Game with Array (1600)
+    1363B - Subsequences (1600)
+    1398C - Good Subarrays (1600)
+    1515D - Phoenix and Socks (1600)
+    1400C - Binary String Reconstruction (1600)
+    1108C - Nice Garland (Grid / modular pattern)
+    1092B - Teams Forming (2D / grid arrangement)
+
+---
+
+String Algorithms & Combinatorics
+    128B - String (2100)
+    1312D - Count the Arrays (1600)
+    1462E2 - Close Tuples (1700)
+    486B - OR in Matrix (Combinatorics / subset enumeration)
+    1473D - Replace by MEX (Prefix / combinatorial reasoning)
+
+---
+
+Number Theory / Math & Binary Search
+    460B - Little Dima and Equation (GCD / divisibility edge cases)
+    622A - Infinite Sequence (Binary search on answer + modulo edge cases)
+    230B - T-primes (1300, reinforce basics)
+    1352C - K-th Not Divisible by n (1200, reinforce binary search)
+    451B - Sort the Array (Permutation / GCD ideas)
+    527B - Error Correct System (Combinatorics edge cases)
+
+---
+
+STL / C++ Mastery & Miscellaneous
+
+Use std::priority_queue, std::multiset, std::map, std::set in practice problems:
+    1515D - Phoenix and Socks (multiset matching)
+    1462E2 - Close Tuples (priority queue + combinatorics)
+
+---
+
+Segment Trees / Fenwick Trees / DSU / Range Queries
+    620E - New Year Tree (Segment Tree + Euler Tour)
+    145E - Lucky Queries (Segment tree lazy updates)
+    339D - Xenia and Bit Operations (Fenwick Tree)
+    1208B - Restore Permutation (Fenwick Tree)
+    459D - Pashmak and Parmida's dilemma (Fenwick Tree / frequency counting)
+    617E - XOR on Segment Tree (segment tree variations)
+    1168D - LR Segment Queries (Segment Tree + range queries)
+
+---
+
+Additional Advanced DP / Combinatorics / Edge Cases
+    118C – Exams (Recursive selection + pruning)
+    337A – Puzzles (Subset selection with constraints)
+    486C – Palindrome Transformation (Edge case DP on strings)
+    1110B – Tape (Negative numbers / 1D max DP variation)
+    279D – Books (Circular / prefix sum DP variation)
