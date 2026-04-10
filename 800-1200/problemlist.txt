@@ -62,7 +62,7 @@ DONE 1343B - Balanced Array (Math) - this one is not sliding window, just math
 DONE 1367B - Even Array (Sliding Window/Parity)
 - forgot about garbage values
 
-1676C - Most Similar Words (Sliding Window/Brute Force)
+DONE 1676C - Most Similar Words (Sliding Window/Brute Force)
 
 1006C - Three Parts of the Array (Two Pointers/Range Sum) [1200]
 
