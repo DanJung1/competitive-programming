@@ -64,14 +64,21 @@ DONE 1367B - Even Array (Sliding Window/Parity)
 
 DONE 1676C - Most Similar Words (Sliding Window/Brute Force)
 
-1006C - Three Parts of the Array (Two Pointers/Range Sum) [1200]
+DONE 1006C - Three Parts of the Array (Two Pointers/Range Sum) [1200]
 
-600B - Queries about less or equal elements (Binary Search/Window) [1200]
+DONE - 600B - Queries about less or equal elements (Binary Search/Window) [1200]
+--when doing binary search, make sure your mid calculation is correct and that you are updating your low and high pointers correctly
+    - index = low + (high - low) / 2;
+
+    -if arr[mid] < target: low = mid + 1;
+    -if arr[mid] > target: high = mid - 1;
+    -if array[mid] == target: return mid;
+
 
 
 // Dynamic Programming (DP) & Advanced Logic
 
-WORKING - 706B - Interesting Drink (Binary Search/DP Intro) [1100]
+DONE - 706B - Interesting Drink (Binary Search/DP Intro) [1100]
 
 455A - Boredom (Classic DP/State transition) [1200]
 
