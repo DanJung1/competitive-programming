@@ -80,18 +80,22 @@ DONE - 600B - Queries about less or equal elements (Binary Search/Window) [1200]
 
 DONE - 706B - Interesting Drink (Binary Search/DP Intro) [1100]
 
-455A - Boredom (Classic DP/State transition) [1200]
+Goal for today:
 
-1182A - Filling Shapes (Basic DP/Tiling) [1000]
+1. WORKING 455A - Boredom (Classic DP/State transition) [1200]
 
-327A - Flipping Game (DP/Greedy Mix) [1200]
+2. 1182A - Filling Shapes (Basic DP/Tiling) [1000]
 
-977A – Wrong Subtraction (Math / Logic)
+3. 327A - Flipping Game (DP/Greedy Mix) [1200]
 
-472A – Design Tutorial: Learn from Math (Math / Divisors)
+-----------------
 
-231A – Team (Counting / Conditions)
+// BASIC MATH
 
-50A – Domino piling (2D / Grid logic)
+DONE 4. 977A – Wrong Subtraction (Math / Logic) [800]
 
-469A – I Wanna Be the Guy (Simple Boolean/2D coverage)
+DONE 472A – Design Tutorial: Learn from Math (Math / Divisors) [800]
+
+DONE 50A – Domino piling (2D / Grid logic)
+
+DONE 469A – I Wanna Be the Guy (Simple Boolean/2D coverage)

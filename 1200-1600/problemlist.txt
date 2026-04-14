@@ -37,6 +37,14 @@ Dynamic Programming (1D / small 2D / Tree DP)
     279D – Books (DP on sequence with prefix sums)
     486C – Palindrome Transformation (DP on strings, minimal edits)
     1110B – Tape (1D DP, maximum sum / edge case with negatives)
+
+    1033B - Square Difference [1200]
+    607A - Chain Reaction [1400]
+    118D - Caesar's Legions [1400]
+    698A - Vacations [1200]
+    466C - Number of Ways [1400]
+    363B - Fence [1100-1200] - sliding window/prefix sum
+
 Number Theory & Math / Binary Search
     230B - T-primes
     1352C - K-th Not Divisible by n

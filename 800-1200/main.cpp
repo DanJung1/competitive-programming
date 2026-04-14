@@ -5,6 +5,8 @@ using namespace std;
 // This allows you to use cin and cout directly
 
 int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
     //declare variables
     int a;
     int b;
