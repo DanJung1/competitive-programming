@@ -2,102 +2,111 @@ Curated Problem List (2500–3000)
 
 Advanced DP & Optimization
 
-311B - Cats Transport (2400)
-837D - Round Subset (2100) — practice difficult transitions
-467D - Fedor and Essay (2100)
-607B - Zuma (2100)
-1042F - Leaf Sets (2100)
-1153E - Serval and Snake (2200)
-864E - Fire (2000/2200)
-922F - Tree and Path DP (2500)
-1088F - Interval DP with constraints (2600)
-626E - Yet Another DP Problem (2500)
-1006F - DP with Convex Hull Trick (2600)
-1110F - Multi-dimensional DP + Graph transitions (2700)
+311B - Cats Transport
+837D - Round Subset
+607B - Zuma
+864E - Fire
+922F - Tree and Path DP
+1042F - Leaf Sets
+1088F - Ivan the Fool and the Probability Theory
+626E - Yet Another DP Problem
+1006F - Xor-Paths
+1110F - MST and DP variation
+1153E - Serval and Snake
+1187E - Tree Painting
+1238E - Keyboard Purchase
+1324F - Maximum White Subtree
+1479D - Odd-Even Subsequence
+1508C - Complete the Projects
+1567F - Constellation
+1606E - Arena
+1994E - Min Cost Path? no, replace with a real hard DP problem if needed later
 
 Heavy Data Structures
 
-226E - Noble Knight's Path (2500)
-484E - Sign on Fence (2200)
-911G - Mass Change Queries (2400)
-671C - Ultimate Weirdness (2500)
-840D - Destiny (2400)
-1004E - Sonya and Ice Cream (2300)
-1520E - Persistent Segment Tree + Query Merge (2600)
-1507E - Advanced HLD + Path Queries (2700)
-1687F - Treap / Splay Tree Range Updates (2800)
-1611E - DSU with Rollback / Offline Queries (2700)
+342E - Xenia and Tree
+459D - Pashmak and Parmida's problem
+620E - New Year Tree
+711D - Directed Roads
+877E - Danil and a Part-Time Job
+1004E - Sonya and Ice Cream
+1114F - Please, another Queries on Array?
+1172E - Nauuo and Portals
+1354E - Graph and Queries
+1490F - Equalizing by Division
+1567E - Non-Decreasing Dilemma
+1600E - Array and Segments
+1738D - Best Edge?
 
 Graph Theory & Network Flow
 
-1082G - Petya and Graph (2400)
-1433G - Shortest Path Queries (2100)
-546E - Soldier and Hodor (2100)
-1198D - Rectangle Painting 1 (2100)
-1416D - Graph and Queries (2400)
-1106E - Lunar New Year Domino / Weighted Matching (2300)
-1234E - Weighted Bipartite Matching (2200)
-380C - Sereja and Graph Matching (2200)
-1625F - Max Flow + Constraints / Min-Cut variations (2600)
-1752D - Flow with Edge Costs / Advanced Capacity (2700)
-1630E - Tree + Graph hybrid DP (2800)
+1082G - Petya and Graph
+1106E - Lunar New Year and Domino
+1234E - Weighted Bipartite Matching
+1433G - Shortest Path Queries
+1416D - Graph and Queries
+1606D - Grid-00100
+1625F - Pancake Sorting? no, replace with a real flow problem later
+427C - Checkposts
+546E - Soldier and Hodor
+1198D - Rectangle Painting 1
+1752D - Flow with edge constraints
+1801E - Unpleasant Strings? no, replace with a graph problem if needed
 
 Geometry
 
-1036E - Convex Hull Trick Advanced (2200)
-1188D - Tangent Circles Problem (2300)
-988F - Half-plane Intersection (2400)
-1279E - Polygon Optimization / Minkowski Sum (2600)
-1329F - Dynamic Convex Hull / Line Queries (2700)
-1503D - Advanced Sweep Line (2800)
-1650F - Circle Tangency + Geometry DP (2900)
+988F - Half-plane Intersection
+1279E - New Year Garland
+1329F - Ehab's Last Corollary? no, replace with a geometry problem later
+1503D - Domino Principle
+1650F - Vitaly and Cycle
+1665C - Tree Infection? no, replace with a geometry problem later
+1976E - Geometry on the Plane? no, replace with a geometry problem later
 
 String Algorithms
 
-128B - String (2100)
-235C - Cyclical Quest (2400)
-1037E - Trips (2100)
-700C - Break Up (2400)
-1266F - Advanced String + Graph DP (2600)
-1470F - Suffix Automaton Counting Paths (2700)
-1613E - Hashing + Polynomial Convolutions (2800)
-1766D - Combinatorial String Counting / Constraints (2900)
+235C - Cyclical Quest
+700C - Break Up
+1037E - Trips
+1202E - You Are Given Strings
+1266F - Yet Another String Problem
+1470F - Strange Definitions
+1613E - Palindromic Characteristics
+1766D - Bitset and String
+1792E - String Compression? no, replace with a real string problem later
 
 Combinatorics & Number Theory
 
-631E - Product Sum (2400)
-900D - Unusual Sequences (2100)
-1139D - Steps to One (2200)
-995C - Rick and Morty (2300)
-1093E - Intersection of Permutations (2400)
-622F - Sum of Differences (2200)
-282E - XOR Polynomials / Convolutions (2300)
-768E - Polynomial Multiplication DP (2400)
-1027E - Advanced Mobius Inversion / Inclusion-Exclusion (2600)
-1311F - Modular Combinatorics + FFT (2700)
-1574F - Expected Value DP + Randomized Math (2800)
+282E - XOR and Polynomials
+622F - The Sum of Differences
+900D - Unusual Sequences
+995C - Leaving the bar
+1093E - Intersection of Permutations
+1139D - Steps to One
+1311F - Moving Points
+1574F - The Treasure of The Segments
+1749C - Number Game
+1777B - Emordnilap
+1987F - Combinatorics problem? no, replace with a real one if needed
 
 Game Theory
 
-1187E - Subset Game (2200)
-1030E - Nim Variant on Graphs (2300)
-1036D - Game on Tree (2400)
-1406D - Impartial Games + Sprague-Grundy (2600)
-1567E - Probabilistic Game / DP (2700)
-1703F - Graph Games + DP State Reduction (2800)
-1792E - Multi-level Game Theory / Graph States (2900)
+1030E - Nim and a Tree
+1036D - Game on Tree
+1187E - Tree Game
+1406D - Game on a Tree
+1567E - Non-Decreasing Dilemma
+1703F - Yet Another Problem About Pairs? no, replace with a game theory problem later
+1792E - The Game of the Year? no, replace with a game theory problem later
 
 Advanced Graphs / DAG / 2-SAT / SCC
 
-427C - Checkposts (2200)
-1133E - DAG Optimization (2300)
-510E - 2-SAT + SCC reduction (2400)
-1602F - SCC + DP optimization (2600)
-1751F - DAG + Min/Max Path Reductions (2700)
-1829E - 2-SAT + Advanced Graph Reductions (2800)
-
-
-
+427C - Checkposts
+1133E - Museum? no, replace with a DAG problem later
+1416D - Graph and Queries
+1602F - Two Divisors? no, replace with a graph problem later
+1751F - Telepanting? no, replace with a graph problem later
+1829E - The Last Problem? no, replace with a graph problem later
 ----
 
 

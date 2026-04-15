@@ -1,87 +1,207 @@
 DONE 102061H - Kadane's Algorithm
 
-Greedy (Optimal Choice / Interval / Proof-Based)
-    158B - Taxi
-    466A - Cheap Travel
-    1359B - New Theatre Square
-    479C - Exams
-    131A - CAPS lOCK
-    1353C - Board Moves
-    1151A - Maxim and Biology
-    1154C – Gourmet Cat (Greedy + prefix sum variations)
-    1080B – Margarite (Greedy with negative numbers / edge case handling)
-    1095C - Powers Of Two
-    1141C - Polycarp Restores Permutation
-    371C - hamburgers
-Two Pointers & Sorting (Linear Scan / Matching)
-    489B - Bersu Ball
-    580B - Kefa and Company
-    161A - Dress'em in Vests
-    602B - Approximating a Constant Range
-    1360C - Similar Pairs
-    489C – Given Lengths (already added, keep)
-    1100B – Build a Contest (Edge cases with counts, sorting + pairing)
-    1152C – Neko does Maths (Two pointers + modular arithmetic)
-    489C - Given Lengths
-    1203C - Common Divisors
-Dynamic Programming (1D / small 2D / Tree DP)
-    455A - Boredom
-    189A - Cut Ribbon
-    327A - Flipping Game
-    1324E - Sleeping Schedule
-    706C - Hard Process
-    431C - k-Tree
-    546C - Soldier and Number Game
-    279C - Ladder
-    439C - Devu and his Brother
-    279D – Books (DP on sequence with prefix sums)
-    486C – Palindrome Transformation (DP on strings, minimal edits)
-    1110B – Tape (1D DP, maximum sum / edge case with negatives)
+    Greedy (Optimal Choice / Interval / Proof-Based)
 
-    1033B - Square Difference [1200]
-    607A - Chain Reaction [1400]
-    118D - Caesar's Legions [1400]
-    698A - Vacations [1200]
-    466C - Number of Ways [1400]
-    363B - Fence [1100-1200] - sliding window/prefix sum
+158B - Taxi
+466A - Cheap Travel
+1359B - New Theatre Square
+479C - Exams
+131A - cAPS lOCK
+1353C - Board Moves
+1151A - Maxim and Biology
+1154C - Gourmet Cat
+1080B - Margarite and the best version of this problem
+1095C - Powers Of Two
+1141C - Polycarp Restores Permutation
+371C - Hamburgers
+489A - Swap, Sort, and Make a List
+1360B - Honest Coach
+1490A - Dense Array
+1551A - Polycarp and Coins
+1800A - Is It a Cat?
+148A - Insomnia cure
+1497B - M-arrays
+1703D - Yet Another Problem
+2194B - Stringy Strings
 
-Number Theory & Math / Binary Search
-    230B - T-primes
-    1352C - K-th Not Divisible by n
-    474B - Worms
-    276C - Little Girl and Maximum Sum
-    451B - Sort the Array
-    527B - Error Correct System
-    460B – Little Dima and Equation (GCD / divisibility edge cases)
-    622A – Infinite Sequence (Binary search on answer + modulo edge cases)
-Graphs & Trees (BFS / DFS / Functional / Topo)
-    520B - Two Buttons
-    580C - Kefa and Park
-    115A - Party
-    1020B - Badge
-    510C - Fox And Names
-    534B - Covered Points Count
-    510B – Fox And Two Dots (DFS on grid, cycle detection)
-    427B – Prison Transfer (Graph intervals / BFS on array)
-Recursion / Complete Search / Backtracking / Combinatorial
-    279B - Books
-    469B - Chat Online
-    1091B - New Year and Old Property
-    1011B - Planning
-    337A – Puzzles (Subset selection with constraints)
-    118C – Exams (Recursive selection + pruning variations)
-2D / Grid / Geometry
-    1037B - Reach Median
-    1076B - Divisor Subtraction
-    1006B - Polyline
-    1033C - Permutation Game
+    Two Pointers & Sorting
 
-    1108C – Nice Garland (Grid + modular arithmetic / pattern placement)
-    1092B – Teams Forming (2D / grid-based pairing + sequence constraints)
-Prefix Sums / Difference Arrays / Sliding Windows
-    459B - Pashmak and Flowers
-    447B - DZY Loves Sequences
-    1358C - Celex Update
+489B - BerSU Ball
+580B - Kefa and Company
+161A - Dress'em in Vests
+602B - Approximating a Constant Range
+1360C - Similar Pairs
+1100B - Build a Contest
+1152C - Neko does Maths
+1203C - Common Divisors
+347A - Difference Row
+1492B - Card Deck
+200B - Drinks
+451A - Game With Sticks
+1430B - Barrels
+1520D - Same Differences
+1535B - Array Reodering
+1579A - Casimir's String Solitaire
 
-    279A – Exams (Prefix sum with min/max queries, sequence constraints)
-    1066C – Books Queries (Sliding window + prefix sum combination)
+    Dynamic Programming
+
+455A - Boredom
+189A - Cut Ribbon
+1324E - Sleeping Schedule
+706C - Hard Process
+431C - k-Tree
+546C - Soldier and Number Game
+279C - Ladder
+439C - Devu and his Brother
+279D - Books
+486C - Palindrome Transformation
+1110B - Tape
+1033B - Square Difference
+607A - Chain Reaction
+118D - Caesar's Legions
+698A - Vacations
+466C - Number of Ways
+363B - Fence
+1195C - Basketball Exercise
+1155C - Good Array
+474D - Flowers
+1244C - The Football Season
+1392D - Omkar and Bed Wars
+1527B - Love Song
+1550B - Running for Gold
+1552D - Array Differentiation
+
+    Number Theory & Math / Binary Search
+
+230B - T-primes
+1352C - K-th Not Divisible by n
+474B - Worms
+276C - Little Girl and Maximum Sum
+451B - Sort the Array
+527B - Error Correct System
+460B - Little Dima and Equation
+622A - Infinite Sequence
+25A - IQ Test
+617A - Elephant
+1295A - Display The Number
+1362A - Johnny and Ancient Computer
+1475A - Odd sum segments
+1612A - Pleasant Prizes
+1676A - Lucky?
+1703A - YES or YES?
+1714A - Everyone Loves to Sleep
+1560A - Dislike of Threes
+1716A - 2-3 Moves
+1729A - Two Elevators
+1742A - Sum
+1742B - Increasing
+1742C - Stripes
+
+    Graphs & Trees
+
+520B - Two Buttons
+580C - Kefa and Park
+115A - Party
+1020B - Badge
+510C - Fox And Names
+534B - Covered Points Count
+510B - Fox And Two Dots
+427B - Prison Transfer
+25D - Roads not only in Berland
+1030A - In Search of an Easy Problem
+1300A - Non-zero
+1328A - Divisibility Problem
+1530A - Binary String Construction
+1543A - Exciting Bets
+1704A - Two Subsequences
+
+    Recursion / Complete Search / Backtracking / Combinatorial
+
+279B - Books
+469B - Chat Online
+1091B - New Year and Old Property
+1011B - Planning
+337A - Puzzles
+1622A - Construct a Rectangle
+1559A - Mocha and Math
+1368A - Sum of Odd Integers
+1535A - Fair Playoff
+1553A - Digits Sum
+1506A - Strange Table
+1512A - Spy Detected!
+1520A - Do Not Be Distracted!
+1611A - Make Even
+1676B - Equal Candies
+1619A - Square
+1714B - Rhapsody in Music
+1740A - Meet the Doctor
+
+    2D / Grid / Geometry
+
+1037B - Reach Median
+1076B - Divisor Subtraction
+1006B - Polyline
+1033C - Permutation Game
+1108C - Nice Garland
+1092B - Teams Forming
+71A - Way Too Long Words
+80A - Panoramix's Prediction
+96A - Football
+617B - Melodious Password
+1191A - Tokitsukaze, CSL and Stone Game
+1352A - Sum of Round Numbers
+1512B - Almost Rectangle
+1547A - Shortest Path with Obstacle
+1562A - Alternating Deck
+1742D - Coprime
+
+    Prefix Sums / Difference Arrays / Sliding Windows
+
+459B - Pashmak and Flowers
+447B - DZY Loves Sequences
+1358C - Celex Update
+1066C - Books Queries
+1157C2 - Increasing Subsequence
+1481A - Space Navigation
+1538A - Stone Game
+1560B - Who's Opposite?
+1708A - Difference Operations
+1730A - Planar Reflections
+1742E - Scuza
+
+    Additional mixed practice
+
+1296C - Yet Another Walking Robot
+1363B - Subsequence Hate
+1475B - New Year's Number
+1498A - GCD Sum
+1519B - The Cake Is a Lie
+1538C - Number of Pairs
+1551B1 - Wonderful Coloring - 1
+1551B2 - Wonderful Coloring - 2
+1562B - Scenes From a Memory
+1618B - Missing Bigram
+1669A - Division?
+1676C - Most Similar Words
+1703B - ICPC Balloons
+1716B - Notepad
+1729A - Two Elevators
+1742F - Smaller
+
+    Implementation / Constructive / Bitmask add-ons
+
+1703E - Mirror Grid
+1497B - M-arrays
+1556B - Take Your Places!
+1557C - Moamen and XOR
+1567C - Carrying Conundrum
+1600A - Square and +
+1607A - Linear Keyboard
+1616A - Integer Diversity
+1624A - Plus One on the Subset
+1669C - Odd Even Increments
+1705A - Mark the Dust Sweeper
+1716C - Robot in a Hallway
+1720A - Burenka Plays with Fractions
+1730B - Meeting on the Line
+1742G - Flash Mob

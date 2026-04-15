@@ -78,15 +78,15 @@ DONE - 600B - Queries about less or equal elements (Binary Search/Window) [1200]
 
 // Dynamic Programming (DP) & Advanced Logic
 
-DONE - 706B - Interesting Drink (Binary Search/DP Intro) [1100]
+DONE - 706B - Interesting Drink (Binary Search/DP Intro) [1500]
+ - used binary search to solve this problem, but can also probably be solved using dp
+  
+DONE 455A - Boredom (Classic DP/State transition) [1500] - resolve
 
-Goal for today:
+DONE 1182A - Filling Shapes (Basic DP/Tiling) [1000]
+- not dp, at least the simple solution
 
-1. WORKING 455A - Boredom (Classic DP/State transition) [1200]
-
-2. 1182A - Filling Shapes (Basic DP/Tiling) [1000]
-
-3. 327A - Flipping Game (DP/Greedy Mix) [1200]
+DONE 327A - Flipping Game (DP/Greedy Mix) [1200] - resolve later
 
 -----------------
 
@@ -95,7 +95,10 @@ Goal for today:
 DONE 4. 977A – Wrong Subtraction (Math / Logic) [800]
 
 DONE 472A – Design Tutorial: Learn from Math (Math / Divisors) [800]
+ - very interesting problem, and very simple
 
-DONE 50A – Domino piling (2D / Grid logic)
+DONE 50A – Domino piling (2D / Grid logic) [800]
 
-DONE 469A – I Wanna Be the Guy (Simple Boolean/2D coverage)
+- very simple and fun 
+
+DONE 469A – I Wanna Be the Guy (Simple Boolean/2D coverage) [800]

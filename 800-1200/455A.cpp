@@ -1,7 +1,5 @@
 #include <iostream>
-#include<vector>
-#include<algorithm>
-#include<map>
+#include<cmath>
 
 using namespace std;
 
@@ -11,20 +9,29 @@ int main() {
 
     int n;
     cin >> n;
-    //actually I think I want to use a map to track frequencies (value, # of instances)
-    vector<int> elements(n);
 
-    for (int &p : elements) {
-        cin >> p;
+    const int MAX_VAL = 100001;
+    long long cnt[MAX_VAL] = {0};
+
+    int x;
+    for (int i = 0; i < n; i++) {
+        cin >> x;
+        cnt[x]++;
     }
-    //O n log n time complexity
-    sort(elements.begin(), elements.end());
+    //ok initialize my DP array to store the maximum points you can get considering all numbers from 0 up to i
+    long long dp[MAX_VAL];
+    dp[0] = 0; //THIS IS My base case!
+    dp[1] = cnt[1] * 1; //if there's only ones - you just multiply the number of ones in cnt and then multiply by 1
 
-    //auto it = upper_bound(elements.begin(), elements.end(), spend_coins);
-    //cout << distance(elements,begin(), it) << "\n" --> first element strictly greater han a value
-    //probably just top to bottom sorted - not true, because there is a "Cost" to taking a point value each time
-    //highest if the cost is < the value?
-    //if the cost is >= value, then we do next down?
+    for (int i = 2; i < MAX_VAL; i++) {
+        dp[i] = max(dp[i - 1], 1LL * i * cnt[i] + dp[i - 2]);
+    }
+
+    //need to make dp relation - dp[i] = max(dp[i - 1], i * cnt[i] + dp[i - 2]);
+
+    //and then to print the actual results:
+    cout << dp[MAX_VAL - 1] << "\n";
+    //going to come back to this problem after solving some easier dp problems
 
     return 0;
 }

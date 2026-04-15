@@ -8,77 +8,127 @@ Advanced Math: FFT (Fast Fourier Transform), Game Theory (Nim, Sprague-Grundy).
 
 Geometry: Convex Hull, Sweep Line.
 
-1. Advanced Dynamic Programming (Optimization & Techniques)
-    311B - Cats Transport (2400): Convex Hull Trick (CHT) DP.
-    837D - Round Subset (2100): Multi-dimensional Knapsack + Math constraints.
-    467D - Fedor and Essay (2100): DP on Strongly Connected Components (SCC).
-    607B - Zuma (2100): Interval DP (Classic but difficult transitions).
-    1042F - Leaf Sets (2100): Greedy + Tree DP.
-    1153E - Serval and Snake (2200): Interactive DP/Search logic.
-    864E - Fire (2000/2200): DP with item recovery and sorting by deadlines.
+Advanced DP
+311B - Cats Transport
+837D - Round Subset
+607B - Zuma
+864E - Fire
+1042F - Leaf Sets
+1153E - Serval and Snake
+1101D - GCD Counting
+1139D - Steps to One
+279D - Books
+1187E - Tree Painting
+1238E - Keyboard Purchase
+1320E - 2-SAT? no, replace with a real DP-heavy problem: 1198D - Rectangle Painting 1
+1479D - A-B Graph
+1508C - Limak and Box
+1567F - One-Four Overload
+1606E - Arena
 
-2. Heavy Data Structures (Persistence & Custom Trees)
-    226E - Noble Knight's Path (2500): Persistent Segment Tree + Heavy-Light Decomposition (HLD).
-    484E - Sign on Fence (2200): Persistent Segment Tree + Binary Search.
-    911G - Mass Change Queries (2400): Segment Tree Merging or Disjoint Set Union (DSU) on values.
-    671C - Ultimate Weirdness (2500): Segment Tree with complex "beats" or range updates.
-    840D - Destiny (2400): Persistent Segment Tree for range frequent elements.
-    1004E - Sonya and Ice Cream (2300): Tree Diameter + Data structure optimization.
+Trees and rerooting
+1324F - Maximum White Subtree
+1336A - Linova and Kingdom
+1454E - Number of Simple Paths
+219D - Choosing Capital for Treeland
+342E - Xenia and Tree
+580E - Kefa and Watch
+1092F - Tree and Queries
+161D - Distance in Tree
+1616E - Lexicographically Small Enough? no, replace with a tree problem: 1009F - Dominant Indices
+840E - In and Out
+191C - Fools and Roads
 
-3. Advanced Graph Theory (Flow, Matching, & Cut)
-    1082G - Petya and Graph (2400): Reduction to Maximum Weight Closure (Max-Flow/Min-Cut).
-    1433G - Shortest Path Queries (2100): Dijkstra optimization over edge sets.
-    546E - Soldier and Hodor (2100): Max-Flow for distribution problems.
-    1198D - Rectangle Painting 1 (2100): 2D Interval DP / Min-Cut intuition.
-    1416D - Graph and Queries (2400): Kruskal's Reconstruction Tree + DSU.
+Heavy data structures
+339D - Xenia and Bit Operations
+459D - Pashmak and Parmida's problem
+620E - New Year Tree
+145E - Lucky Queries
+1172E - Nauuo and Portals
+877E - Danil and a Part-Time Job
+52C - Circular RMQ
+558E - A Simple Task
+1114F - Please, Another Queries on Array?
+1450E - Lucky Queries variant no, use 1083E - The Fair Nut and Rectangles
+1567E - Non-Decreasing Dilemma
 
-4. Combinatorics & Number Theory (The "Math" Wall)
-    631E - Product Sum (2400): Optimization using Li-Chao Tree or CHT.
-    900D - Unusual Sequences (2100): Inclusion-Exclusion + Mobius Inversion.
-    1139D - Steps to One (2200): Expectation DP + Number Theory (Mobius).
-    995C - Rick and Morty (2300): Randomized Algorithms / Vectors.
-    1093E - Intersection of Permutations (2400): 2D Range Queries (Fenwick + CDQ Decomposition).
+Advanced graph theory
+1082G - Petya and Graph
+1433G - Shortest Path Queries
+1320B - Navigation System
+1000E - We Need More Bosses
+1196F - K-th Path
+466E - Information Graph
+601A - The Two Routes
+610D - Vika and Segments
+587E - Duff as a Queen
+427C - Checkposts
+1108E1 - Array and Segments (easy version)
+1108E2 - Array and Segments (hard version)
+1416D - Graph and Queries
+1344C - The Monochromic Chord
+1601E - Optimal Insertion? no, replace with a real graph problem: 1474F - Different Divisors
 
-5. String Mastery (Suffix Structures)
-    128B - String (2100): Suffix Automaton or Suffix Array basics.
-    235C - Cyclical Quest (2400): Suffix Automaton + Occurrence counting.
-    1037E - Trips (2100): Graph pruning + Online connectivity.
-    700C - Break Up (2400): Finding bridges/Articulation points in complex constraints.
+Flows and matching
+1106E - Lunar New Year and Domino
+1234E - Weighted Bipartite Matching
+380C - Sereja and Graph Matching
+1082G - Petya and Graph
+487A - Fastest Finger First? no, replace with 1423B - Valuable Paper
+1437E - Make It Increasing
+237E - Build String
+1205E - Shortest Path? no, replace with 1245F - The Secret of Extremely Fine Chocolate
+1479E - Choose and Swap
+1398F - Yet Another Segments? no, replace with 1033G - Days Off
 
-6. Centroid & Heavy-Light Decomposition (Tree Mastery)
-    342E - Xenia and Tree (2000/2200): Centroid Decomposition for nearest-node queries.
-    117E - Tree or not Tree (2500): HLD + Cycle handling in functional graphs.
-    1192B - Dynamic Diameter (2500): Diameter maintenance in a dynamic tree (Segment Tree over Euler Tour).
+String algorithms
+235C - Cyclical Quest
+1202E - You Are Given Strings
+1037E - Trips
+710F - String Queries? no, replace with 1202D - Print the String
+963D - Frequency of String
+128B - String
+1003F - Yet Another String Game
+1326E - Bombs
+1554E - You
+1705D - Mark and His Unfinished Essay
+1730F - Summoning the Dragon
+1823E - The Summer Place
 
+Geometry
+988F - Dispute? no, replace with 1005F - Berland and the Shortest Paths
+1036E - Covered Points Count
+1188D - Rectangle? no, replace with 997E - Good Subsegments
+1194E - Entertainment? no, replace with 1624F - Interstellar
+1398E - Two Types of Spells? no, replace with 1665C - Tree Infection
+1422D - Returning Home
+6E - Exposition
+166B - Polygons
+851C - Merge it!
+1195F - Geometric Progression
+1361D - Johnny and Contribution
 
-Added Problems for Missing Topics / Edge Cases
+Math / combinatorics / game theory
+900D - Unusual Sequences
+1093E - Intersection of Permutations
+1139D - Steps to One
+282E - XOR and Polynomials
+622F - The Sum of Differences
+997F - Good Subsegments
+427D - Match & Catch
+453C - Little Pony and Expected Maximum
+1030D - Vasya and Triangle
+1179E - Marcin and Training Camp
+1467E - Distinctive Roots
 
-Advanced Graph Matching / Bipartite Matching / Max Flow
-1106E - Lunar New Year and Domino (2300)
-1234E - Weighted Bipartite Matching (2200)
-380C - Sereja and Graph Matching (2200)
-
-Probability / Expectation DP / Randomized
-439E - Devu and his Brother (2100)
-1020E - Expected Value on Graph (2200)
-466E - Probability and Expected Paths (2300)
-
-FFT / Polynomial / Convolutions
-622F - The Sum of Differences (2200)
-282E - XOR and Polynomials (2300)
-768E - Polynomial Multiplication DP (2400)
-
-Hard Geometry / Convex Hull / Sweep Line
-1036E - Convex Hull Trick Advanced (2200)
-1188D - Tangent Circles Problem (2300)
-988F - Half-plane Intersection (2400)
-
-Game Theory / Sprague-Grundy Advanced
-1187E - Subset Game (2200)
-1030E - Nim Variant on Graphs (2300)
-1036D - Game on Tree (2400)
-
-Advanced Graphs / DAG / 2-SAT / SCC
-427C - Checkposts (2200)
-1133E - DAG Optimization (2300)
-510E - 2-SAT + SCC reduction (2400)
+Strong extra additions
+1879E - A Beautiful Tree
+1882E - Nearly Shortest Repeating Substring
+1900E - Exponentiation?
+1915E - Come and Take the Castle
+1942F - Money Trees
+1988F - Fixing the Powers
+1998E - Growth of Trees
+2004E - Given a Tree
+2030E - A Game with Traps
+2062F - Sum of Odd Integers

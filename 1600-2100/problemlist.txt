@@ -12,82 +12,74 @@ Advanced DP: Bitmask DP, DP on Trees, Knapsack variations.
 Combinatorics: Inclusion-Exclusion principle.
 -------------------------------------------------------------------------------------------
 
-Advanced Dynamic Programming (State Mastery)
-    2194E
-    118D - Caesar's Legions (1700)
-    1324E - Sleeping Schedule (1500)
-    459E - Pashmak and Graph (1900)
-    1207C - Pipelines (1600)
-    1101D - GCD Counting (2100)
-    1061C - Multiplicity (1700)
-    279D - Books (DP on sequence with prefix sums)
-    486C - Palindrome Transformation (DP on strings, minimal edits)
-    1110B - Tape (1D DP, maximum sum / negative numbers)
+Advanced DP
+118D - Caesar's Legions
+1324E - Sleeping Schedule
+459E - Pashmak and Graph
+1061C - Multiplicity
+279D - Books
+486C - Palindrome Transformation
+1110B - Tape
+1207C - Gas Pipeline
+1101D - GCD Counting
+2194E - The Turtle Strikes Back
 
----
+Tree algorithms
+1324F - Maximum White Subtree
+1336A - Linova and Kingdom
+115A - Party
+1454E - Number of Simple Paths
+219D - Choosing Capital for Treeland
+439C - Devu and his Brother
+431C - k-Tree
 
-Tree Algorithms & Re-rooting (CS 170 Mastery)
-    1324F - Maximum White Subtree (1800)
-    1336A - Linova and Kingdom (1600)
-    115A - Party (1600)
-    1454E - Number of Simple Paths (1900)
-    219D - Choosing Capital for Treeland (1800)
-    439C - Devu and his Brother (Tree DP basics)
-    431C - k-Tree (1500)
+Data structures
+339D - Xenia and Bit Operations
+459D - Pashmak and Parmida's problem
+620E - New Year Tree
+145E - Lucky Queries
+617E - XOR and Favorite Number
+1168D - Lucky Queries-style segment tree problem
 
----
+Graph theory
+1144F - Graph Without Long Directed Paths
+20C - Dijkstra?
+1364C - Ehab and Prefix MEXs
+982C - Cut 'em all!
+1433G - Shortest Path Queries
+510B - Fox And Two Dots
+427B - Prison Transfer
+510C - Fox And Names
 
-Data Structures (Segment Trees & Fenwick Trees / BIT)
-    339D - Xenia and Bit Operations (1700)
-    1208B - Restore Permutation (1800)
-    459D - Pashmak and Parmida's dilemma (1800)
-    620E - New Year Tree (2000)
-    145E - Lucky Queries (2000)
-    1064C - Least Recently Used (Segment Tree variant)
-    446C - DZY Loves Hash (Fenwick / frequency counting)
+Constructive / observation
+1389B - Game with Array
+1363B - Subsequence Hate
+1398C - Good Subarrays
+1515D - Phoenix and Socks
+1400C - Binary String Reconstruction
+1108C - Nice Garland
+1092B - Teams Forming
+1473D - Replace by MEX
 
----
+Strings / combinatorics
+128B - String
+1312D - Count the Arrays
+1462E2 - Close Tuples
+486B - OR in Matrix
+1538C - Number of Pairs
+1676C - Most Similar Words
+1716B - Notepad
 
-Advanced Graph Theory
-    1144F - Graph Without Long Directed Paths (1700)
-    20C - Dijkstra? (1900)
-    1364C - Ehab and Prefix MEXs (1600)
-    982C - Cut 'em all! (1600)
-    1433G - Shortest Path Queries (2100)
-    510B - Fox And Two Dots (DFS cycle detection)
-    427B - Prison Transfer (BFS / range graph)
-    510C - Fox And Names (Topological sort basics)
-
----
-
-Constructive & Mathematical Observation
-    1389B - Game with Array (1600)
-    1363B - Subsequences (1600)
-    1398C - Good Subarrays (1600)
-    1515D - Phoenix and Socks (1600)
-    1400C - Binary String Reconstruction (1600)
-    1108C - Nice Garland (Grid / modular pattern)
-    1092B - Teams Forming (2D / grid arrangement)
-
----
-
-String Algorithms & Combinatorics
-    128B - String (2100)
-    1312D - Count the Arrays (1600)
-    1462E2 - Close Tuples (1700)
-    486B - OR in Matrix (Combinatorics / subset enumeration)
-    1473D - Replace by MEX (Prefix / combinatorial reasoning)
-
----
-
-Number Theory / Math & Binary Search
-    460B - Little Dima and Equation (GCD / divisibility edge cases)
-    622A - Infinite Sequence (Binary search on answer + modulo edge cases)
-    230B - T-primes (1300, reinforce basics)
-    1352C - K-th Not Divisible by n (1200, reinforce binary search)
-    451B - Sort the Array (Permutation / GCD ideas)
-    527B - Error Correct System (Combinatorics edge cases)
-
+Number theory / binary search
+460B - Little Dima and Equation
+622A - Infinite Sequence
+230B - T-primes
+1352C - K-th Not Divisible by n
+451B - Sort the Array
+527B - Error Correct System
+617A - Elephant
+25A - IQ Test
+1295A - Display The Number
 ---
 
 STL / C++ Mastery & Miscellaneous
@@ -115,3 +107,77 @@ Additional Advanced DP / Combinatorics / Edge Cases
     486C – Palindrome Transformation (Edge case DP on strings)
     1110B – Tape (Negative numbers / 1D max DP variation)
     279D – Books (Circular / prefix sum DP variation)
+
+
+    More shortest path / tree query practice
+1433G - Shortest Path Queries
+20C - Dijkstra?
+41? no.
+1320B - Navigation System
+1000E - We Need More Bosses
+1303E - Erase Subsequences
+1196F - K-th Path
+466E - Information Graph
+601A - The Two Routes
+610D - Vika and Segments
+587E - Duff as a Queen
+
+More rerooting / tree DP
+1324F - Maximum White Subtree
+1336A - Linova and Kingdom
+1454E - Number of Simple Paths
+219D - Choosing Capital for Treeland
+1238E - Keyboard Purchase
+1041D - Coffee and Course
+1187E - Tree Painting
+161D - Distance in Tree
+580E - Kefa and Watch
+1092F - Tree and Queries
+
+More constructive / proof-based
+1389B - Game with Array
+1363B - Subsequence Hate
+1400C - Binary String Reconstruction
+1515D - Phoenix and Socks
+1478C - Nezzar and Symmetric Array
+1538D - Odd-Even Subsequence
+1555C - Coin Rows
+1601A - Interesting Story
+1705C - Mark and His Unfinished Essay
+1730C - Minimum Notation
+
+More segment tree / lazy propagation
+339D - Xenia and Bit Operations
+459D - Pashmak and Parmida's problem
+620E - New Year Tree
+145E - Lucky Queries
+1172E - Nauuo and Portals
+1567E - Non-Decreasing Dilemma
+1705E - Mark and Professor
+52C - Circular RMQ
+877E - Danil and a Part-Time Job
+558E - A Simple Task
+
+More bitmask DP
+580D - Kefa and Dishes
+1216F - Wi-Fi
+1316E - Team Building
+1080E - Sonya and Matrix Beauty
+1014E - Robot on the Board 2
+165E - Compatible Numbers
+1659D - Reverse Sorting
+580A? no.
+1665D - GCD Guess
+1729F - Toggle the Bits
+
+Harder combinatorics / inclusion-exclusion
+453C - Little Pony and Expected Maximum
+839C - Journey
+1009E - Intercity Travelling
+1097D - Makoto and a Blackboard
+1237F - Balanced Domino Placement
+1349C - Orac and Game of Life
+1628A - Constructive Problem
+1665A - GCD vs LCM
+1749C - Number Game
+1777B - Emordnilap
